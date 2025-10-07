@@ -1,0 +1,35 @@
+/* English */
+"tab.home" = "Home";
+"tab.quiz" = "Quiz";
+"tab.achievements" = "Achievements";
+"tab.settings" = "Settings";
+
+"home.welcome" = "Welcome to LitQuiz";
+"home.subtitle" = "Test your knowledge of authors, books, and quotes";
+"home.last_result" = "Last result";
+"home.daily_goal" = "Today's goal";
+"home.daily_goal.done" = "Goal completed — +1 quiz";
+"home.daily_goal.todo" = "Take 1 quiz today";
+"home.tips" = "Tips";
+"home.tip.mixed" = "Try Mixed Quiz to cover more topics";
+"home.tip.badges" = "Earn badges by scoring 80%+";
+"home.tip.reminder" = "Enable daily reminder in Settings";
+
+"quiz.title" = "Quiz";
+"quiz.mode" = "Quiz Mode";
+"quiz.start" = "Start";
+"quiz.retry" = "Retry";
+"quiz.back_to_modes" = "Back to modes";
+
+"achievements.title" = "Achievements";
+
+"settings.title" = "Settings";
+"settings.theme" = "Dark theme";
+"settings.notifications.section" = "Notifications";
+"settings.notifications.toggle" = "Daily quiz 20:00";
+"settings.notifications.open" = "Open notification settings";
+"settings.reset.section" = "Reset";
+"settings.reset.achievements" = "Reset achievements";
+"settings.reset.onboarding" = "Show onboarding again";
+
+

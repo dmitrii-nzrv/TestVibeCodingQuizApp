@@ -1,0 +1,35 @@
+/* Russian */
+"tab.home" = "Домой";
+"tab.quiz" = "Квиз";
+"tab.achievements" = "Достижения";
+"tab.settings" = "Настройки";
+
+"home.welcome" = "Добро пожаловать в ЛитКвиз";
+"home.subtitle" = "Проверьте знания авторов, книг и цитат";
+"home.last_result" = "Последний результат";
+"home.daily_goal" = "Сегодняшняя цель";
+"home.daily_goal.done" = "Цель выполнена — +1 квиз";
+"home.daily_goal.todo" = "Пройдите 1 квиз сегодня";
+"home.tips" = "Подсказки";
+"home.tip.mixed" = "Попробуйте смешанный квиз, чтобы охватить больше тем";
+"home.tip.badges" = "Зарабатывайте бэджи, набирая 80% и выше";
+"home.tip.reminder" = "Включите ежедневное напоминание в Настройках";
+
+"quiz.title" = "Квиз";
+"quiz.mode" = "Режим квиза";
+"quiz.start" = "Начать";
+"quiz.retry" = "Пройти снова";
+"quiz.back_to_modes" = "К выбору режима";
+
+"achievements.title" = "Достижения";
+
+"settings.title" = "Настройки";
+"settings.theme" = "Тёмная тема";
+"settings.notifications.section" = "Уведомления";
+"settings.notifications.toggle" = "Ежедневный квиз 20:00";
+"settings.notifications.open" = "Открыть настройки уведомлений";
+"settings.reset.section" = "Сброс";
+"settings.reset.achievements" = "Сбросить достижения";
+"settings.reset.onboarding" = "Показать онбординг снова";
+
+
